@@ -1,0 +1,28 @@
+/* General paragraph styling */
+p {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+/* Example 1: border properties individually (same style all around) */
+.box1 {
+  border-style: dotted;
+  border-width: 6px;
+  border-color: purple;
+
+  background-color: #f7e9ff;
+  border-radius: 12px;
+}
+
+/* Example 2: each border is different */
+.box2 {
+  border-top: 10px solid red;
+  border-bottom: 10px dashed blue;
+  border-left: 12px dotted green;
+  border-right: 12px double purple;
+
+  background-color: #e9f7ff;
+}
