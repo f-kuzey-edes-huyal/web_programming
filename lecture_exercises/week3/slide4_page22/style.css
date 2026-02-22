@@ -1,0 +1,19 @@
+/* Web Programming – Lecture 4 */
+/* Demonstrating body margin difference */
+
+body {
+    background-color: lightblue;
+    /*  margin: 0;   Comment this line to see the difference */
+}
+
+h1 {
+    background-color: orange;
+    /*  margin: 0; */
+    padding: 10px;
+}
+
+.highlight-box {
+    display: block;  /* Change from inline-block */
+    background-color: yellow;
+    padding: 10px;
+}
