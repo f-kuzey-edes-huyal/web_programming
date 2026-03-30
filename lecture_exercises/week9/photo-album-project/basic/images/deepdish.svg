@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f6d365"/>
+  <circle cx="400" cy="250" r="150" fill="#f4a261"/>
+  <circle cx="340" cy="210" r="18" fill="#c1121f"/>
+  <circle cx="455" cy="220" r="18" fill="#c1121f"/>
+  <circle cx="380" cy="300" r="18" fill="#c1121f"/>
+  <circle cx="460" cy="310" r="18" fill="#c1121f"/>
+  <text x="400" y="70" font-size="42" text-anchor="middle" font-family="Arial" fill="#222">Deep Dish Pizza</text>
+</svg>

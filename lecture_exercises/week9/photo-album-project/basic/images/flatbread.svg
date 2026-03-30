@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#cdeac0"/>
+  <rect x="150" y="170" width="500" height="160" rx="20" fill="#e9c46a"/>
+  <circle cx="240" cy="220" r="14" fill="#d62828"/>
+  <circle cx="330" cy="250" r="14" fill="#d62828"/>
+  <circle cx="430" cy="220" r="14" fill="#d62828"/>
+  <circle cx="540" cy="255" r="14" fill="#d62828"/>
+  <text x="400" y="80" font-size="42" text-anchor="middle" font-family="Arial" fill="#222">Flatbread Pizza</text>
+</svg>

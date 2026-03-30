@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e9edc9"/>
+  <polygon points="400,120 620,390 180,390" fill="#f4a261"/>
+  <polygon points="400,145 585,370 215,370" fill="#ffd166"/>
+  <circle cx="400" cy="220" r="16" fill="#c1121f"/>
+  <circle cx="340" cy="300" r="16" fill="#c1121f"/>
+  <circle cx="470" cy="300" r="16" fill="#c1121f"/>
+  <text x="400" y="70" font-size="42" text-anchor="middle" font-family="Arial" fill="#222">New York Slice</text>
+</svg>

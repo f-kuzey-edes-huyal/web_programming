@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#bde0fe"/>
+  <rect x="130" y="180" width="540" height="140" rx="60" fill="#dda15e"/>
+  <rect x="170" y="205" width="460" height="90" rx="40" fill="#f4a261"/>
+  <circle cx="260" cy="245" r="15" fill="#ae2012"/>
+  <circle cx="360" cy="240" r="15" fill="#ae2012"/>
+  <circle cx="470" cy="250" r="15" fill="#ae2012"/>
+  <circle cx="560" cy="235" r="15" fill="#ae2012"/>
+  <text x="400" y="80" font-size="42" text-anchor="middle" font-family="Arial" fill="#222">French Bread Pizza</text>
+</svg>
