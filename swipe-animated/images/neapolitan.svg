@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#ffd6a5"/>
+  <circle cx="400" cy="250" r="155" fill="#d4a373"/>
+  <circle cx="400" cy="250" r="135" fill="#f4a261"/>
+  <circle cx="330" cy="200" r="16" fill="#bc4749"/>
+  <circle cx="460" cy="210" r="16" fill="#bc4749"/>
+  <circle cx="370" cy="285" r="16" fill="#bc4749"/>
+  <circle cx="470" cy="300" r="16" fill="#bc4749"/>
+  <circle cx="300" cy="285" r="16" fill="#bc4749"/>
+  <text x="400" y="70" font-size="42" text-anchor="middle" font-family="Arial" fill="#222">Neapolitan Pizza</text>
+</svg>

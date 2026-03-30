@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Photo Album - Swipe and Animation</title>
+  <link rel="stylesheet" href="css/photo.css">
+  <script src="js/photo-list.js" defer></script>
+  <script src="js/photo.js" defer></script>
+</head>
+<body>
+  <h1>Pizzas I Like</h1>
+  <p class="instructions">
+    Click a thumbnail to open it. In the modal, use the left/right buttons,
+    keyboard arrows, or drag/swipe horizontally. Press Escape or tap the dark background to close.
+  </p>
+
+  <section id="album-view"></section>
+
+  <section id="modal-view" class="hidden" aria-hidden="true">
+    <div id="modal-content">
+      <button id="previous-button" class="nav-button" aria-label="Previous photo">&#8592;<span>Previous</span></button>
+      <div id="modal-stage"></div>
+      <button id="next-button" class="nav-button" aria-label="Next photo"><span>Next</span>&#8594;</button>
+    </div>
+  </section>
+</body>
+</html>
